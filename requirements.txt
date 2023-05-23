@@ -1,0 +1,6 @@
+discord==2.2.2
+datetime==5.1
+asyncio==3.4.3
+requests==2.28.2
+pytz==2022.7.1
+dotenv==0.0.5
